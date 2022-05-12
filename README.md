@@ -1,6 +1,6 @@
 # SPD2022_TPS
 
-# TP_01 / Cronometro Binario
+TP_01 / Cronometro Binario
 
 
 
